@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Injects Artoo, URI.js and moment.js into runtime
 // @author       You
-// @match        https://www.templatemonster.com/*
+// @match        https://*
 // @icon         https://medialab.github.io/artoo/public/img/artoo-icon.svg
 // @grant        none
 // ==/UserScript==
