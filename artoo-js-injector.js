@@ -5,5 +5,5 @@
     artoojsInjector.src = '//cdn.jsdelivr.net/gh/sameronline/apify-code@0.0.2/apify-artoo.js';
     artoojsInjector.async = "true";
     artoojsInjector.defer = "true";
-    document.head.appendChild(artoojs);
+    document.head.appendChild(artoojsInjector);
 })();
